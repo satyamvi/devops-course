@@ -1,4 +1,4 @@
-FROM hshar/webapp
+FROM satyamvi/ubuntuapche
 
 RUN rm /var/www/html/index.html
 
